@@ -32,6 +32,3 @@ In this project, we aim to classify customers into **four different segments (A,
 📈 Experiment with more extensive hyperparameter tuning for optimal performance.  
 🔍 Use additional external data sources to improve segmentation quality.  
 
-## 🤝 Contributing  
-
-Want to contribute? Feel free to **fork** the repo, open an issue, or submit a pull request! 🙌  
